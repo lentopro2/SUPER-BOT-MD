@@ -65,7 +65,7 @@ global.APIKeys = {
 }
 
 global.packname = '⫷᭄Super-ʙᴏᴛ-ᴍᴅ﹏ ✍'
-global.author = '    '
+global.author = 'Stiker maker✍'
 global.vs = '1.10.90'
 global.version = vs
 global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏ ✍'
